@@ -1,1 +1,1 @@
-print('i am hind)
+print('i am hindu')
